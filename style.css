@@ -1,13 +1,17 @@
-body {background-color: rgb(165, 165, 129)}
-
-
-header {color: brown;
-text-align: center;
-        }
-
-
-main {color: red;
+body {
+  background-color: rgb(165, 165, 129);
 }
 
-p {color: black;
-font-size: large;}
+header {
+  color: brown;
+  text-align: center;
+}
+
+main {
+  color: red;
+}
+
+p {
+  color: black;
+  font-size: large;
+}
